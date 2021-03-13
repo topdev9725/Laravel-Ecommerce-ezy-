@@ -37,7 +37,7 @@ This is a e-commerce platform I made mostly using Laravel 5.4
 Clone repo
 
 ```
-git clone https://github.com/intelligo-systems/laravel-ecommerce.git
+git clone https://github.com/amarchan9655/Laravel-Ecommerce-ezy-.git
 ```
 
 Install Composer
@@ -75,10 +75,6 @@ Go into .env file and change Database and Email credentials.
 
 ```
 php artisan migrate
-```
-
-```
-php artisan db:seed
 ```
 	
 Generating a New Application Key

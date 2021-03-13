@@ -1,33 +1,3 @@
-# Laravel Ecommerce
-
-<p align="center">
-	<img src="/public/img/logo.png" width="200"/>
-</p>
-
-<p align="center">
-    <a href="https://github.com/intelligo-systems/laravel-ecommerce/issues">
-        <img src="https://img.shields.io/github/issues/intelligo-systems/laravel-ecommerce.svg"
-            alt="Issues"></a>
-     <a href="https://github.com/intelligo-systems/laravel-ecommerce/fork">
-        <img src="https://img.shields.io/github/forks/intelligo-systems/laravel-ecommerce.svg?style=social&label=Fork"
-            alt="Forks"></a>
-    <a href="https://github.com/intelligo-systems/laravel-ecommerce/stargazers">
-        <img src="https://img.shields.io/github/stars/intelligo-systems/laravel-ecommerce.svg?style=social&label=Stars"
-            alt="Stars"></a>
-    <a href="https://github.com/tortuvshin/">
-        <img src="https://img.shields.io/github/followers/tortuvshin.svg?style=social&label=Follow"
-            alt="Followers"></a>
-    <a href="https://raw.githubusercontent.com/opengineer/laravel-ecommerce/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg"
-            alt="LICENSE"></a>
-    <a href="https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D">
-        <img src="https://img.shields.io/twitter/url/https/github.com/topengineer/laravel-ecommerce.svg?style=social"
-            alt="Tweet"></a>
-	  <a href="http://hits.dwyl.io/intelligo-system/intelligo">
-    <img alt="Hits" src="http://hits.dwyl.io/intelligo-system/intelligo.svg">
- </a>
-</p>
-
 
 ## Laravel Ecommerce Platform
 
@@ -37,6 +7,10 @@ This is a e-commerce platform I made mostly using Laravel 5.4
 |---|---|---|---|---|---|
 
 ## Features 
+- Multi verdor ecommerce
+- Integration with Malaysia Payment
+- Scan and Pay function
+- Affiliate System Configration
 - Multiple language display for front and back end
 - Automatic cross sell / up sell / related product offerings
 - Open Source
@@ -47,19 +21,6 @@ This is a e-commerce platform I made mostly using Laravel 5.4
 - Create custom transaction emails
 - Newsletter management
 - Create different sales rules for groups of products
-- Customer loyalty discounts
-- An “intelligent” search form
-- Custom page creation
-- Contact forms
-- Manage orders/invoicing/shipment processing
-- Manage different sales tax arrangements
-- Stock control
-- Integration with Social Media promotion tools
-- Tier pricing
-- Multiple Currency
-- Wish Lists
-- Ability to Ship to Multiple Addresses
-- Single step checkout for registered customers
 
 ## Requirements
 

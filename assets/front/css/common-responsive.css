@@ -1,0 +1,215 @@
+
+@media only screen and (max-width: 1366px) {
+.slider-buttom-category .single-category {
+    height: 100px;
+}
+}
+
+@media only screen and (max-width: 991px) {
+    .featured-link-box{
+        display: none!important;
+    }
+    .slider_bottom_banner a{
+        margin-bottom: 20px;
+    }
+    .category-page .bg-white .sub-category-menu ul li {
+        flex: 50%;
+        max-width: 50%;
+    }
+    .info-area .info-big-box{
+        margin-top: 10px;
+    }
+    .hero-area .hero-area-slider .intro-carousel .intro-content.slide-one {
+        text-align: left;
+        padding-right: 200px;
+       }
+      .hero-area .hero-area-slider .intro-carousel .intro-content.slide-two {
+        text-align: center;
+        padding: 0px 150px;
+       }
+      .hero-area .hero-area-slider .intro-carousel .intro-content.slide-three {
+        text-align: right; 
+        padding-left: 200px;
+      }
+    .logo-header .search-box .categori-container .categoris {
+        line-height: 40px!important;
+    }
+    .logo-header .search-box-wrapper {
+        padding: 0px 0px;
+    }
+         /*  Subscribe preloader area  */
+         .subscribePreloader__thumb {width: 70%;}
+         .subscribePreloader__text {width: 80%;}
+         /*  /Subscribe preloader area  */
+         .item .info .name {
+            font-size: 13px!important;
+        }
+        .product-details-page .right-area .product-info {
+            margin-top: 8px;
+        }
+        .product-details-page .right-area .product-info .mproduct-size .siz-list li.active .box{
+            margin: 2px;
+        }
+        .wholesell-details-page{
+            margin-top: 40px;
+        }
+}
+
+@media only screen and (max-width: 767px) {
+    .category-page .bg-white .sub-category-menu ul li {
+        flex: 100%;
+        max-width: 100%;
+    }
+    .order-tracking-content .tracking-form{
+        display: flow-root;
+    }
+    .order-tracking-content .tracking-form input{
+        height: 40px;
+    }
+    .order-tracking-content .tracking-form .mybtn1 {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .order-tracking-content .tracking-form {
+        margin-top: 60px;
+        margin-bottom: 30px;
+    }
+    .top-header .content{
+        display: block;
+        flex: unset;
+        width: 100%;
+    }
+    .top-header .content .left-content {
+       float: left;
+       display: inline-block;
+       flex: unset;
+       width: auto;
+    }
+    .top-header .content .right-content {
+        float: right;
+        display: inline-block;
+        flex: unset;
+        width: auto;
+    }
+        /*  Subscribe preloader area  */
+        .subscribePreloader__thumb {width: 90%;}
+        .subscribePreloader__text {width: 90%; padding: 10px;}
+        .subscribePreloader__text input,
+        .subscribePreloader__text button {width: 100%;}
+        .subscribePreloader__text input {margin-bottom: 10px;}
+        /*  /Subscribe preloader area  */
+}
+
+
+@media only screen and (max-width: 575px) {
+    .checkout-area .content-box .content .order-area .order-item .product-img img {
+        width: 90px;
+    }
+    .logo-header {
+        padding: 7px 0px 9px;
+    }
+    .logo-header .search-box .categori-container .categoris {
+        line-height: 35px!important;
+    }
+    .logo-header .search-box .categori-container {
+        height: 35px;
+    }
+    .logo-header .search-box {
+        height: 35px;
+    }
+    .logo-header .search-box .search-form input {
+        height: 35px;
+    }
+    .hero-area .hero-area-slider .intro-carousel .intro-content.slide-one {
+        text-align: left;
+        padding-right: 100px;
+       }
+      .hero-area .hero-area-slider .intro-carousel .intro-content.slide-two {
+        text-align: center;
+        padding: 0px 50px;
+       }
+      .hero-area .hero-area-slider .intro-carousel .intro-content.slide-three {
+        text-align: right; 
+        padding-left: 100px;
+      }
+      .product-tab .section-top{
+          display: flow-root;
+      }
+      .product-tab .section-top .section-title::after{
+          display: none;
+      }
+}
+
+
+@media only screen and (max-width: 414px) {
+    .logo-header .search-box .search-form button {
+        font-size: 12px;
+        width: 24px;
+    }
+    .logo-header .search-box .search-form input {
+        padding: 0px 3px 0px 4px;
+    }
+    .top-header .content .right-content .list li.login .links {
+        font-size: 13px;
+        color: #fff;
+    }
+    a.sell-btn {
+        padding: 0px 10px;
+        border-radius: 50px;
+        font-weight: 600;
+        margin-left: 4px;
+    }
+    .top-header .content .right-content .list li.login {
+        margin-left: 5px;
+    }
+    .top-header .left-content .list ul li .currency-selector i {
+        font-size: 12px;
+        top: 5px;
+    }
+    .top-header .left-content .list ul li .language-selector i {
+        color: #fff;
+        font-size: 12px;
+        position: relative;
+        top: 5px;
+    }
+    .top-header .content .left-content .list ul li {
+        display: inline-block;
+        margin-right: 2px;
+    }
+    .product-details-page .right-area .product-info .info-meta-3 .meta-list li {
+        margin-right: 3px;
+    }
+    .product-details-page .right-area .product-info .product-size {
+        display: flex;
+    }
+    .product-details-page .right-area .product-info .product-size .siz-list li .box{
+        margin: 2px;
+    }
+    .hero-area .hero-area-slider .intro-carousel .intro-content.slide-one {
+        text-align: left;
+        padding-right: 0px;
+       }
+      .hero-area .hero-area-slider .intro-carousel .intro-content.slide-two {
+        text-align: center;
+        padding: 0px 0px;
+       }
+      .hero-area .hero-area-slider .intro-carousel .intro-content.slide-three {
+        text-align: right; 
+        padding-left: 0px;
+      }
+ 
+}
+
+
+@media only screen and (max-width: 360px) {
+
+    .top-header ul li.my-dropdown.profilearea .profile .text i{
+        display: none
+    
+    }
+    .product-details-page .right-area .product-info .info-meta-3 .meta-list li.addtocart a {
+        padding: 0px 8px;
+        line-height: 33px;
+    }
+
+}

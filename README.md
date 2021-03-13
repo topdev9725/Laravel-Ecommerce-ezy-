@@ -7,7 +7,7 @@ This is a e-commerce platform I made mostly using Laravel 5.4
 |---|---|---|---|---|---|
 
 ## Features 
-- Multi verdor ecommerce
+- Multi vendor ecommerce
 - Integration with Malaysia Payment
 - Scan and Pay function
 - Affiliate System Configration
